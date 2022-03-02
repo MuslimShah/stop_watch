@@ -1,0 +1,28 @@
+.main {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.btnGroup {
+    padding: 20px;
+}
+
+.btn {
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: #3498db;
+    border: 1px solid white;
+    color: white;
+    font-weight: bold;
+}
+
+.hands h1 {
+    display: inline;
+}
+
+footer {
+    text-align: center;
+}
